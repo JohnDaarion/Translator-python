@@ -3,4 +3,3 @@ pip==18.1
 request
 numpy
 tensorflow
-operator
